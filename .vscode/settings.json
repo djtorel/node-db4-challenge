@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "./data/recipes.db3",
+      "dialect": "SQLite",
+      "name": "recipes"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}

@@ -1,0 +1,22 @@
+recipes
+- id
+- recipe_name
+
+ingredients
+- id
+- ingredient_name
+
+steps
+- id
+- step_number
+- instructions
+
+Each recipe has multiple ingredients
+Each recipe has multiple steps
+
+Each ingredient can be in multiple recipes
+
+Each step is only in one recipe
+
+Recipes and Ingredients is many to many
+Recipes and Steps is one to many
